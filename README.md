@@ -1,6 +1,8 @@
 # Monopoly Electronic Banking
 This app acts as the bank in the monopoly game replacing the printed cash.
 Players can register using firebase as backend and pay eachother through the app. 
+Here I use firebase to implement CRUD operation I store the bank balance, the name of the player, and thier UID. 
+Full scalable app that can support hundrendes of users and works both on iOS and Andriod thanks to Dart and Flutter. 
 
 Time spent: **20** hours spent in total
 
