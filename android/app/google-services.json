@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "632033582612",
+    "firebase_url": "https://tronic-banking.firebaseio.com",
+    "project_id": "tronic-banking",
+    "storage_bucket": "tronic-banking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:632033582612:android:f213d8ca2d177100269101",
+        "android_client_info": {
+          "package_name": "com.example.tronicbanking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "632033582612-7epcl54ga03tteaje25q0s89mhpbf5mc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASv6FflqzmXegvAOitfVXoO_fVQDVtY3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "632033582612-7epcl54ga03tteaje25q0s89mhpbf5mc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
