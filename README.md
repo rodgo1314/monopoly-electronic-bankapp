@@ -16,13 +16,45 @@ The following **required** functionality is completed:
 - [x] Works on both andriod and iOS  
 
 
-## Video Walkthrough - iOS
+## Video Walkthrough - Sign Up
 
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/TV4wdVlIft.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
 
-## Video Walkthrough - Andriod
+## Video Walkthrough - Sign in
 
-<img src='http://g.recordit.co/b6w9rcPvAt.gif' title='Video Walkthrough Emulator' width='' alt='Video Walkthrough' />
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/rVmjKcfT8s.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough - Updating name 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/bOaFHnxxo1.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough - Paying Someone (Can't pay yourself!) 
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/EQJIlgkZjU.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough - Collecting Go and Bank Paying You  
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/21LN2IwaBZ.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough - Paying the Bank  
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/KW2W5Ka45b.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough - Reseting the Game   
+
+Here's a walkthrough of implemented user stories:
+
+<img src='http://g.recordit.co/G1UuoDrOrS.gif' title='Video Walkthrough On Simulator' width='' alt='Video Walkthrough' />
 
